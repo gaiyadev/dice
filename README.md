@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## what i learnt
 
-+ Statless class
++ Stateless class
 + stateful class
-+ Stage managemtn (basic)
++ Stage management (basic)
 + Dart functions and Math library
